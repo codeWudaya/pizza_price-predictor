@@ -7,4 +7,4 @@ use command streamlit run app.py after downloading the codes
 ##
 you can directly use it by the GUI
 ##
-![Alt Text](images/gui_predictor.png) 
+![Alt Text](images/gui.png) 
