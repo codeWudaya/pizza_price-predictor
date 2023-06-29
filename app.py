@@ -7,7 +7,7 @@ import pandas as pd
 def main():
     html_temp = """
     <div style="background-color:lightblue;padding:16px">
-    <h2 style="color:black";text-align:center> Pizza Price Predictor</h2>
+    <h2 style="color:black";text-align:center> Pizza Price Predictor codeWudaya 👌</h2>
     </div>
     
     """
